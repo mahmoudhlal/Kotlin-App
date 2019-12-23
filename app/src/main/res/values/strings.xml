@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="source_url">Source URL:</string>
+    <string name="filter_news_by">Filter News By:</string>
+    <string name="cancel">Cancel</string>
+    <string name="filter">Filter</string>
+</resources>
